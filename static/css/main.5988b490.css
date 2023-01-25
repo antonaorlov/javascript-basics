@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:pink;color:#000;font-family:Courier New,Courier,monospace,}@media screen and (min-width:760px){.booklist{grid-template-columns:repeat(3,1fr)}}.book{background:#fff;border-radius:1rem;padding:1rem 2rem}.book h1{margin-top:.5rem}.book h4{color:red;letter-spacing:7px}.book p{margin-top:.5rem}
+/*# sourceMappingURL=main.5988b490.css.map*/
